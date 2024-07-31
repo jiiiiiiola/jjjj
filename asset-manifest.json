@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/repositoryjjjj/static/css/main.f855e6bc.css",
+    "main.js": "/repositoryjjjj/static/js/main.7538db16.js",
+    "static/js/453.ac8d9df1.chunk.js": "/repositoryjjjj/static/js/453.ac8d9df1.chunk.js",
+    "static/media/logo.svg": "/repositoryjjjj/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/repositoryjjjj/index.html",
+    "main.f855e6bc.css.map": "/repositoryjjjj/static/css/main.f855e6bc.css.map",
+    "main.7538db16.js.map": "/repositoryjjjj/static/js/main.7538db16.js.map",
+    "453.ac8d9df1.chunk.js.map": "/repositoryjjjj/static/js/453.ac8d9df1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7538db16.js"
+  ]
+}
